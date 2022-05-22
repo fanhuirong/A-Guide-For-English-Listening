@@ -2,6 +2,10 @@
 
 使用anki做flashcards复习词组或是句子。
 
+## vocabulary
+一般我们遇到的单词可以分为两类，具象的比如book，card，red，容易翻译成中文的内容，抽象的比如happy，sad。最基础的词汇例如朗文3000。
+
+
 ## youtube
 
 ### 1. Vanessa
