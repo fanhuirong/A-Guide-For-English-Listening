@@ -5,6 +5,17 @@
 ## vocabulary
 一般我们遇到的单词可以分为两类，具象的比如book，card，red，容易翻译成中文的内容，抽象的比如happy，sad。最基础的词汇例如朗文3000。
 
+## 如何更流利和流畅地说英语
+1. 如果不会某个单词，可以仔细描述它（用途，在哪里使用，或跳过）
+2. 如果说错了，继续说or快速改正，不要停顿在那里
+3. 说之前可以做一些key point草稿
+4. 使用 `well`, `Let me talk about that`, `That's a great question` ,让我们在说话之前有时间思考
+5. 常用表达: `That reminds me`,`If you ask me`,`As far as I'm concerned`,`Speaking of...`
+6. 找到合适的说话节奏，合理的换气节奏
+7. 在镜子前练习，从连续30s 1min 不间断练习
+8. 常见话题：天气，学校，工作，假期，家庭，周末
+
+[How to speak English more fluently & fluidly](https://www.youtube.com/watch?v=y0P-_atY41M)
 
 ## youtube
 
