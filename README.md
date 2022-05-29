@@ -17,7 +17,11 @@
 
 [How to speak English more fluently & fluidly](https://www.youtube.com/watch?v=y0P-_atY41M)
 
-## youtube
+
+## 语料选择
+从我读书时候就会看到很多人推荐看《老友记》学英语，但是作为一个从没看完三集的人表示，如果实在不感兴趣不必勉强自己，寻找自己喜欢的语料资源然后坚持下去更加重要。youtube 频道，podcast 或是喜欢的talk show 等等都可以作为素材。
+
+## youtube channel
 
 ### 1. Vanessa
 Channel: [Speak English With Vanessa](https://www.youtube.com/c/TeacherVanessa)
@@ -25,9 +29,13 @@ Channel: [Speak English With Vanessa](https://www.youtube.com/c/TeacherVanessa)
 Done:
 * [Grocery Store Vocabulary: shop in English](https://www.youtube.com/watch?v=ijQDxwUGIOg)
 
+### 2. LastWeekTonight
+Channel: [LastWeekTonight](https://www.youtube.com/user/LastWeekTonight)
+
+
 ## podcast
 
-很多人推荐了全英文播客，我的感受是听全英文播客容易走神，不如视频专注度高，中英文结合的会容易记忆一些。
+很多人推荐了全英文播客，我的感受是听全英文播客容易走神，不如视频专注度高，中英文结合的会容易记忆一些，全英文播客对目前的我来说并不是一个很好的材料。
 
 ### 1. 潘吉Jenny告诉你（中英文）
 
@@ -41,7 +49,10 @@ Done:
 ## pre
 训练口语的参照方法，针对不同话题做演讲。
 
-## 背诵
+## 听写，背诵
+
 
 ## 跟读
-羊驼雅思 带有ai评分系统
+羊驼雅思App，带有ai评分系统，可以反复播放自己的录音和听力材料对比，听自己的录音时候很像公开处刑，但是读的多了慢慢就会发现自己的连读重音等改善。
+
+
