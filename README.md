@@ -44,13 +44,14 @@ Done:
 * [最有用的英语单词之Hit](https://mp.weixin.qq.com/s/53kmjR3cXs8lRfCJVqC1gA)
 * [鸡蛋怎么做最好吃？](https://mp.weixin.qq.com/s/6OiuWMfrrWSN8dFdRpnNaQ)
 * [这年头当父母真的太难了!](https://mp.weixin.qq.com/s/GflfZ2x-2WEQwrSoiL7BZQ)
+* [英语面试的胜利法则](https://mp.weixin.qq.com/s/OVBaTPE4EOUdEX6xX34LZg)
 
 
 ## pre
 训练口语的参照方法，针对不同话题做演讲。
 
 ## 听写，背诵
-
+反向听写，把平常喜欢看的翻译好的中文字幕的stand up comedy内容听写下来英文，尽量选择时长较短的片段。
 
 ## 跟读
 羊驼雅思App，带有ai评分系统，可以反复播放自己的录音和听力材料对比，听自己的录音时候很像公开处刑，但是读的多了慢慢就会发现自己的连读重音等改善。
