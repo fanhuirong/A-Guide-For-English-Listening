@@ -32,6 +32,9 @@ Done:
 ### 2. LastWeekTonight
 Channel: [LastWeekTonight](https://www.youtube.com/user/LastWeekTonight)
 
+### 3. The Daily Show with Trevor Noah
+Channel: [TheDailyShow](https://www.youtube.com/c/TheDailyShow)
+
 
 ## podcast
 
@@ -51,7 +54,7 @@ Done:
 训练口语的参照方法，针对不同话题做演讲。
 
 ## 听写，背诵
-反向听写，把平常喜欢看的翻译好的中文字幕的stand up comedy内容听写下来英文，尽量选择时长较短的片段。
+反向听写，把平常喜欢看的翻译好的中文字幕的stand up comedy内容听写下来英文，尽量选择时长较短的片段（目前的实践是10min内）。
 
 ## 跟读
 羊驼雅思App，带有ai评分系统，可以反复播放自己的录音和听力材料对比，听自己的录音时候很像公开处刑，但是读的多了慢慢就会发现自己的连读重音等改善。
