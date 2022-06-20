@@ -2,7 +2,10 @@
 一个英语学习记录
 
 最近在b站看到一个关于英语学习的视频，核心思想就是大量听和读输入，用英文去学习你感兴趣的内容。
-[可理解输入英语学习](https://www.bilibili.com/video/BV1aD4y127GE)
+
+[【高能干货】这个视频将会颠覆你对英语学习的认知——总述·阅读篇](https://www.bilibili.com/video/BV1aD4y127GE)
+
+[【高能干货】这个视频将会颠覆你对英语学习的认知——听说篇](https://www.bilibili.com/video/BV1tf4y1s7NN)
 
 目前使用anki做flashcards复习词组或是句子。
 
