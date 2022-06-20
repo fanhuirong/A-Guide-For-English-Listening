@@ -1,6 +1,10 @@
-# A-Guide-for-English-Listening
+# A-Guide-for-English-Listening 
+一个英语学习记录
 
-使用anki做flashcards复习词组或是句子。
+最近在b站看到一个关于英语学习的视频，核心思想就是大量听和读输入，用英文去学习你感兴趣的内容。
+[可理解输入英语学习](https://www.bilibili.com/video/BV1aD4y127GE)
+
+目前使用anki做flashcards复习词组或是句子。
 
 ## vocabulary
 一般我们遇到的单词可以分为两类，具象的比如book，card，red，容易翻译成中文的内容，抽象的比如happy，sad。最基础的词汇例如朗文3000。
@@ -38,7 +42,7 @@ Channel: [TheDailyShow](https://www.youtube.com/c/TheDailyShow)
 
 ## podcast
 
-很多人推荐了全英文播客，我的感受是听全英文播客容易走神，不如视频专注度高，中英文结合的会容易记忆一些，全英文播客对目前的我来说并不是一个很好的材料。
+很多人推荐了全英文播客，我的感受是听全英文播客容易走神，不如视频专注度高，中英文结合的会容易记忆一些，全英文播客对目前的我来说并不是一个很好的材料，每次听完把对应的单词句子存入anki中。
 
 ### 1. 潘吉Jenny告诉你（中英文）
 
@@ -63,5 +67,7 @@ Done:
 
 ## 专项训练
 如针对面试，bq等内容做专门的学习。
+
+外教建议：可以对着镜子来练习自己要讲的内容，来减少自己面对英文母语者的紧张感。
 
 
