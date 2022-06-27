@@ -7,6 +7,7 @@
 [【高能干货】这个视频将会颠覆你对英语学习的认知——总述·阅读篇](https://www.bilibili.com/video/BV1aD4y127GE)
 
 [【高能干货】这个视频将会颠覆你对英语学习的认知——听说篇](https://www.bilibili.com/video/BV1tf4y1s7NN)
+[一个视频说清整个英语语法体系(重塑你的语法认知框架)](https://www.bilibili.com/video/BV1r54y1m7gd)
 
 目前使用anki做flashcards复习词组或是句子。
 
